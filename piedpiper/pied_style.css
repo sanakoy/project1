@@ -1,0 +1,160 @@
+@import url("normalize.css");
+.pre_rectangle
+{
+    width: 1219px;
+    height: 84px;
+}
+#rectangle
+{
+    width: 1219px;
+    height: 84px;
+    background: #007765;
+    position: fixed;
+}
+body
+{
+    max-width: 1219px;
+    margin: auto;
+    padding: 0 55px 0;
+    font-family: arial;
+}
+
+.image
+{
+    #width: 1219px;
+    #height: 403px;
+    background-image: url("pictures/image.png");
+}
+.pipernet_is_here
+{
+    color: #FFFFFF;
+    text-align:center;
+    font-size: 75px;
+    padding: 160px 0;
+
+}
+.logo
+{   display: inline-block;
+    padding: 20px 0 0 55px;
+}
+.links
+{
+    display: inline-block;
+    color: #FFF;
+    float: right;
+    font-size: 1.3em;
+    margin: 29px 54px;
+}
+.links a
+{
+    color: #FFF;
+    text-decoration: none;
+}
+.green_headers
+{
+    text-align: center;
+    color: #007765;
+    font-size: 64px;
+    padding: 48px 0 16px;
+
+}
+.green_headers_text
+{
+    font-size: 32px;
+    padding: 0 54px 93px;
+}
+#image1
+{
+    width: 1219px;
+    height: 483px;
+    background-image: url("pictures/image(1).png")
+}
+#image1_text
+{
+    color: #FFFFFF;
+    padding: 128px 163px 127px;
+    text-align:center;
+    font-style: italic;
+    font-size: 48px;
+}
+.logo1
+{
+  float: left;
+  display: block;
+  margin: 0 43px 0 55px;
+}
+.color_block
+{
+    background: #EEEEEE;
+}
+#header_team
+{
+    padding: 48px 0 56px;
+}
+figure
+{
+    display: inline-block;
+}
+.employees_photos
+{
+    padding: 0 43px 40px;
+}
+.employee
+{
+    display: block;
+    margin: auto;
+    #margin: 0 12px 82px;
+    padding: 24px 0 0;
+}
+.employee1
+{
+    display: block;
+    margin: auto;
+    padding: 24px 0 0;
+}
+.name
+{
+    font-size: 24px;
+    font-weight: bold;
+    color: #007765;
+    text-align: center;
+}
+.speciality
+{
+    text-align: center;
+    font-style: italic;
+    font-size: 18px;
+}
+.employee img
+{
+    display: block;
+    margin: auto;
+    #padding: 24px 91px 91px;
+}
+.employee1 img
+{
+    display: block;
+    margin: auto;
+    #padding: 24px 91px 91px;
+}
+.frame
+{
+    display: inline-block;
+    width: 350px;
+    height: 283px;
+    margin: 0 12px 30px;
+}
+.finish_block
+{
+    width: auto;
+    height: 176px;
+    background: #333333;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    padding: 48px 0 0;
+}
+.#finish_block_text
+{
+    margin: 24px 0 0;
+}
